@@ -9,7 +9,7 @@ import ProductSection from "./Sections/ProductSection.js";
 import TeamSection from "./Sections/TeamSection.js";
 import WorkSection from "./Sections/WorkSection.js";
 import SectionCarousel from "./Sections/Carousal";
-//import './Sections/style/style.css'
+import './Sections/style/style.css'
 
 const dashboardRoutes = [];
 
